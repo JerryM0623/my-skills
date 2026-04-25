@@ -2,13 +2,13 @@
 
 这个仓库用于存储和同步我目前正在使用的 Skills 技能集。它作为远程同步的中枢，配合 **Skills Manager** 工具，让我能在不同设备或环境中快速部署和更新我的配置。
 
-## 🙏 致谢 Skills Manager
+## 致谢 Skills Manager
 
 感谢 [xingkongliang](https://github.com/xingkongliang) 开发的 **Skills Manager**，让技能管理变得如此简单高效。
 
 > 工具原仓库：[https://github.com/xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
-## 🌟 使用的 Skills 及感谢
+## 使用的 Skills 及感谢
 
 以下是我收录在仓库中的技能配置，衷心感谢每一位作者的分享与付出。
 
