@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95557c95-eb18-40cf-ba74-9408161e73d5",
+  "path": "vue",
+  "path_key": "vue",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/vue",
+    "subpath": "skills\\vue",
+    "branch": null
+  }
+}

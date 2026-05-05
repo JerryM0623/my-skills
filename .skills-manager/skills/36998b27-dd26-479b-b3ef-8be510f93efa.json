@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "36998b27-dd26-479b-b3ef-8be510f93efa",
+  "path": "vueuse-functions",
+  "path_key": "vueuse-functions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/vueuse-functions",
+    "subpath": "skills\\vueuse-functions",
+    "branch": null
+  }
+}
