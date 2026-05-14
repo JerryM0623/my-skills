@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19f53d2f-7840-4d67-b716-8252bd6e573b",
+  "path": "web-design-engineer",
+  "path_key": "web-design-engineer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "conardli/garden-skills/web-design-engineer",
+    "subpath": "skills\\web-design-engineer",
+    "branch": null
+  }
+}
