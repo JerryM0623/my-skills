@@ -24,3 +24,6 @@
 ### 来自 @teachingai
 *   [@teachingai/element-plus-vue3](https://skills.sh/teachingai/full-stack-skills/element-plus-vue3)
 
+### 来自 @wishworldbetter
+*   [@wishworldbetter/spark](https://github.com/wishworldbetter/seedex-skills.git)
+

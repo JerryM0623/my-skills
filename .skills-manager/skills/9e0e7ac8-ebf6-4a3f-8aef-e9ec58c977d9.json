@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e0e7ac8-ebf6-4a3f-8aef-e9ec58c977d9",
+  "path": "spark",
+  "path_key": "spark",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/wishworldbetter/seedex-skills.git",
+    "subpath": "skills\\spark",
+    "branch": null
+  }
+}
