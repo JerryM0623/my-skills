@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e4483f4-d3ee-4236-96f9-ee7bbf2984f9",
+  "path": "mars3d-skill",
+  "path_key": "mars3d-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/marsgis/mars3d-skill.git",
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -25,5 +25,8 @@
 *   [@teachingai/element-plus-vue3](https://skills.sh/teachingai/full-stack-skills/element-plus-vue3)
 
 ### 来自 @wishworldbetter
-*   [@wishworldbetter/spark](https://github.com/wishworldbetter/seedex-skills.git)
+*   [@wishworldbetter/spark](https://github.com/wishworldbetter/seedex-skills)
+
+### 来自 @marsgis
+*   [@marsgis/mars3d](https://github.com/marsgis/mars3d-skill)
 
