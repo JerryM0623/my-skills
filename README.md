@@ -21,9 +21,6 @@
 *   [@antfu/vueuse-functions](https://skills.sh/antfu/skills/vueuse-functions)
 *   [@antfu/vue-router-best-practices](https://skills.sh/antfu/skills/vue-router-best-practices)
 
-### 来自 @teachingai
-*   [@teachingai/element-plus-vue3](https://skills.sh/teachingai/full-stack-skills/element-plus-vue3)
-
 ### 来自 @wishworldbetter
 *   [@wishworldbetter/spark](https://github.com/wishworldbetter/seedex-skills)
 
