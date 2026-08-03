@@ -13,6 +13,7 @@
 以下是我收录在仓库中的技能配置，衷心感谢每一位作者的分享与付出。
 
 ### 来自 @anthropics
+*   [@anthropics/find-skills](https://skills.sh/anthropics/skills\find-skills)
 *   [@anthropics/skill-creator](https://skills.sh/anthropics/skills/skill-creator)
 *   [@anthropics/frontend-design](https://skills.sh/anthropics/skills/frontend-design)
 
