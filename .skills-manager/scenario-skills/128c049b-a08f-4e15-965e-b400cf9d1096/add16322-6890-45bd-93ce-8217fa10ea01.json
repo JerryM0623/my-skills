@@ -10,6 +10,7 @@
     "cursor": true,
     "github_copilot": true,
     "kilo_code": true,
-    "kiro": true
+    "kiro": true,
+    "pi": true
   }
 }
