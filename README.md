@@ -28,3 +28,6 @@
 ### 来自 @marsgis
 *   [@marsgis/mars3d](https://github.com/marsgis/mars3d-skill)
 
+### 来自我自己
+*   svg-cleaner - 除了本仓库，暂时没有上传任何网上
+
