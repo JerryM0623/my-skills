@@ -19,8 +19,6 @@
 
 ### 来自 @antfu
 *   [@antfu/vue](https://skills.sh/antfu/skills/vue)
-*   [@antfu/vueuse-functions](https://skills.sh/antfu/skills/vueuse-functions)
-*   [@antfu/vue-router-best-practices](https://skills.sh/antfu/skills/vue-router-best-practices)
 
 ### 来自 @wishworldbetter
 *   [@wishworldbetter/spark](https://github.com/wishworldbetter/seedex-skills)
