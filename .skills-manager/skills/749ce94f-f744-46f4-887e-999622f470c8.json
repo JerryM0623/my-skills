@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "749ce94f-f744-46f4-887e-999622f470c8",
+  "path": "apifox-test-scenario",
+  "path_key": "apifox-test-scenario",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/apifox/apifox-cli-skills",
+    "subpath": ".well-known\\agent-skills\\apifox-test-scenario",
+    "branch": null
+  }
+}

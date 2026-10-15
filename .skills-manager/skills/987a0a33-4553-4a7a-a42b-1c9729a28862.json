@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "987a0a33-4553-4a7a-a42b-1c9729a28862",
+  "path": "apifox-import-export",
+  "path_key": "apifox-import-export",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/apifox/apifox-cli-skills",
+    "subpath": ".well-known\\agent-skills\\apifox-import-export",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "84b86995-4539-45be-afdc-0bbb089a7fb0",
+  "path": "apifox-workflow-api-lifecycle",
+  "path_key": "apifox-workflow-api-lifecycle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/apifox/apifox-cli-skills",
+    "subpath": ".well-known\\agent-skills\\apifox-workflow-api-lifecycle",
+    "branch": null
+  }
+}

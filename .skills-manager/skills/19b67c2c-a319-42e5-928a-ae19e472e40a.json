@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19b67c2c-a319-42e5-928a-ae19e472e40a",
+  "path": "apifox-cli",
+  "path_key": "apifox-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/apifox/apifox-cli-skills",
+    "subpath": ".well-known\\agent-skills\\apifox-cli",
+    "branch": null
+  }
+}

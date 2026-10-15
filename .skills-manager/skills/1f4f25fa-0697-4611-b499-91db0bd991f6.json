@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1f4f25fa-0697-4611-b499-91db0bd991f6",
+  "path": "apifox-test-automation",
+  "path_key": "apifox-test-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/apifox/apifox-cli-skills",
+    "subpath": ".well-known\\agent-skills\\apifox-test-automation",
+    "branch": null
+  }
+}
