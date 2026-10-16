@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de2614ca-1195-4fb1-a299-9194b025756b",
+  "path": "reverse-engineer-anything",
+  "path_key": "reverse-engineer-anything",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/morluto/rea",
+    "subpath": ".agents\\skills\\reverse-engineer-anything",
+    "branch": null
+  }
+}
