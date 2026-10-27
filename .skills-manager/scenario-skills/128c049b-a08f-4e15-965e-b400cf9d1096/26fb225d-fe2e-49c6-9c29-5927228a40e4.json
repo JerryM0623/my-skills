@@ -8,7 +8,9 @@
     "cline": true,
     "codex": true,
     "cursor": true,
+    "deepseek_harness": true,
     "github_copilot": true,
+    "junie": true,
     "kilo_code": true,
     "kiro": true,
     "pi": true
