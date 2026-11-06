@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ecc0589-6d69-4d3e-b4da-9d414bea98f9",
+  "path": "tanstack-query-best-practices",
+  "path_key": "tanstack-query-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "deckardger/tanstack-agent-skills/tanstack-query-best-practices",
+    "subpath": "skills\\tanstack-query",
+    "branch": null
+  }
+}

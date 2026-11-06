@@ -1,12 +1,10 @@
 {
   "schema_version": 1,
   "scenario_id": "128c049b-a08f-4e15-965e-b400cf9d1096",
-  "skill_id": "de2614ca-1195-4fb1-a299-9194b025756b",
+  "skill_id": "000e1bc8-76cf-4a8c-9906-58b8f036216f",
   "sort_order": 1,
   "tools": {
     "codex": true,
-    "deepseek_harness": true,
-    "junie": true,
-    "pi": true
+    "junie": true
   }
 }
