@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "000e1bc8-76cf-4a8c-9906-58b8f036216f",
+  "path": "antd",
+  "path_key": "antd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "ant-design/ant-design-cli/antd",
+    "subpath": "skills\\antd",
+    "branch": null
+  }
+}

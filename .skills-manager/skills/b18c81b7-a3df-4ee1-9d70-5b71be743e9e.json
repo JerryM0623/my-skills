@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b18c81b7-a3df-4ee1-9d70-5b71be743e9e",
+  "path": "vercel-composition-patterns",
+  "path_key": "vercel-composition-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/agent-skills/vercel-composition-patterns",
+    "subpath": "skills\\composition-patterns",
+    "branch": null
+  }
+}

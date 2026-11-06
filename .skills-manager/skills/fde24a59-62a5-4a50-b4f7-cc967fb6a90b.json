@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fde24a59-62a5-4a50-b4f7-cc967fb6a90b",
+  "path": "tanstack-router-best-practices",
+  "path_key": "tanstack-router-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "deckardger/tanstack-agent-skills/tanstack-router-best-practices",
+    "subpath": "skills\\tanstack-router",
+    "branch": null
+  }
+}
