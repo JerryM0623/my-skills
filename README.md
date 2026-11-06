@@ -14,9 +14,25 @@
 
 ### 来自 @anthropics
 
-*   [@anthropics/find-skills](https://skills.sh/anthropics/skills/find-skills)
 *   [@anthropics/skill-creator](https://skills.sh/anthropics/skills/skill-creator)
 *   [@anthropics/frontend-design](https://skills.sh/anthropics/skills/frontend-design)
+*   [@anthropics/webapp-testing](https://skills.sh/anthropics/skills/webapp-testing) - 基于 Playwright 的本地 Web 应用测试、截图与浏览器日志排查
+
+### 来自 @vercel-labs
+
+*   [@vercel-labs/find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 发现、搜索与安装社区技能
+*   [@vercel-labs/vercel-react-best-practices](https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) - React 与 Next.js 性能优化、数据获取与包体积优化
+*   [@vercel-labs/vercel-composition-patterns](https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns) - React 组件组合、复合组件与可复用 API 设计
+*   [@vercel-labs/web-design-guidelines](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines) - Web 界面规范、可访问性与用户体验审查
+
+### 来自 @ant-design
+
+*   [@ant-design/antd](https://skills.sh/ant-design/ant-design-cli/antd) - Ant Design 组件 API、示例与设计 Token 查询，以及版本迁移和问题排查
+
+### 来自 @deckardger
+
+*   [@deckardger/tanstack-query-best-practices](https://skills.sh/deckardger/tanstack-agent-skills/tanstack-query-best-practices) - TanStack Query 数据获取、缓存、变更与服务端状态管理
+*   [@deckardger/tanstack-router-best-practices](https://skills.sh/deckardger/tanstack-agent-skills/tanstack-router-best-practices) - TanStack Router 类型安全路由、数据加载与搜索参数管理
 
 ### 来自 @antfu
 
