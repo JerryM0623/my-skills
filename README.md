@@ -59,12 +59,6 @@
 *   [@apifox/apifox-import-export](https://apifox.com/.well-known/agent-skills/apifox-import-export/SKILL.md) - API 文档导入导出与质量校验
 *   [@apifox/apifox-workflow-api-lifecycle](https://apifox.com/.well-known/agent-skills/apifox-workflow-api-lifecycle/SKILL.md) - API 设计、Mock、测试与文档发布工作流
 
-### 来自 @morluto
-
-官方仓库：[morluto/rea](https://github.com/morluto/rea) —— "Reverse Engineer Anything"，通过 MCP / CLI 分析二进制、JS/Electron、.NET、APK、网站、抓包等运行物，并返回带证据的结论
-
-*   [@morluto/reverse-engineer-anything](https://skills.sh/morluto/rea/reverse-engineer-anything) - 逆向工程调查工作流（指令层，工具由 REA MCP 或 `rea` CLI 提供）
-
 ### 来自我自己
 
 *   svg-cleaner - 除了本仓库，暂时没有上传任何网上
