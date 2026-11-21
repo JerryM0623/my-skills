@@ -6,7 +6,7 @@
   "tools": {
     "codex": true,
     "deepseek_harness": true,
-    "junie": true,
+    "junie": false,
     "pi": true
   }
 }

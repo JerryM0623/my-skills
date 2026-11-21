@@ -5,6 +5,7 @@
   "sort_order": 4,
   "tools": {
     "codex": true,
-    "junie": true
+    "deepseek_harness": true,
+    "junie": false
   }
 }

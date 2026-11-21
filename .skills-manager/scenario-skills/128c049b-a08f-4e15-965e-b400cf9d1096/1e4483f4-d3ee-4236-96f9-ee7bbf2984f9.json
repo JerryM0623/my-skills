@@ -10,7 +10,7 @@
     "cursor": true,
     "deepseek_harness": true,
     "github_copilot": true,
-    "junie": true,
+    "junie": false,
     "kilo_code": true,
     "kiro": true,
     "pi": true
