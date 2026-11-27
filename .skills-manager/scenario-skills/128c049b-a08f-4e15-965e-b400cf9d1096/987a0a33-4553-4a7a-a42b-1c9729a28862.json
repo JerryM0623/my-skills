@@ -6,7 +6,9 @@
   "tools": {
     "codex": true,
     "deepseek_harness": true,
-    "junie": false,
+    "github_copilot": true,
+    "junie": true,
+    "kilo_code": true,
     "pi": true
   }
 }
